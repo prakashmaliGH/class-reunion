@@ -1,0 +1,6 @@
+framework module Pods_class_reunion {
+  umbrella header "Pods-class-reunion-umbrella.h"
+
+  export *
+  module * { export * }
+}
